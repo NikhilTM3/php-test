@@ -3,6 +3,6 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Hello world from PHP!!! this is nikhil !!! Okay okay okay</p>'; ?> 
+ <?php echo '<p>Hi hello this is php-deploy</p>'; ?> 
  </body>
 </html>
